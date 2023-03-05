@@ -1,0 +1,30 @@
+[
+  {
+    "prescriptionNumber": "1",
+    "name": "Сырники с творогом",
+    "cookingTime": "30 минут.",
+    "portionNumber": "Ингредиенты на две порции:",
+    "ingredients": [
+      {
+        "name": "Творог",
+        "count": 350,
+        "measureUnit": "г"
+      },
+      {
+        "name": "Куриное яйцо",
+        "count": 2,
+        "measureUnit": "шт."
+      },
+      {
+        "name": "Пшеничная мука",
+        "count": 6,
+        "measureUnit": "ст.л"
+      },
+      {
+        "name": "Сахар",
+        "count": 2,
+        "measureUnit": "ст.л"
+      }
+    ]
+  }
+ ]
